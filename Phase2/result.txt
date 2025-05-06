@@ -1,0 +1,6 @@
+Unique Survivor winners (up to season 44): 42 out of 44 seasons (95.5%)
+Unique American Idol winners: 21 out of 21 seasons (100%)
+Difference in number of unique winners: 21
+
+Note: American Idol has maintained 100% unique winners throughout its entire run,
+while Survivor has had repeat winners (Sandra Diaz-Twine and Tony Vlachos each won twice).
